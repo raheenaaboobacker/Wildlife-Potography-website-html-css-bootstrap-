@@ -1,0 +1,44 @@
+#d1 {
+    background-image: url("wild.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+
+#space {
+    height: 100px;
+}
+
+h4 {
+    color: tomato;
+}
+
+#d3 {
+    height: 300px;
+}
+
+#d2 {
+    background-color: rgb(202, 200, 198);
+    height: 550px;
+    width: 100%;
+}
+
+#img1 {
+    height: 300px;
+    width: 300px;
+}
+
+#d3 {
+    height: 100px;
+}
+
+#bg {
+    background-color: rgb(202, 200, 198);
+}
+
+#footer {
+    background-image: url("wild.jpg");
+    height: 50px;
+    color: blanchedalmond;
+}
